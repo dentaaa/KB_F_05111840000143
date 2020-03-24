@@ -113,5 +113,3 @@ bool solveNQ() {
         return true;  
 }  
 
-## hasil run
-![](Screenshot/4queen.png)
