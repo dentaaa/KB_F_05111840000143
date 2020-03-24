@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>   
 #include <Windows.h>   
-#define N 8  
+#define N 4
 
 
 void Color(int col) {  
