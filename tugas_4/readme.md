@@ -114,5 +114,5 @@ bool solveNQ() {
 }  
 
 ## hasil run
-![](image.png)
+![](KB_F_05111840000143/tugas_4/image.png)
 
