@@ -112,3 +112,7 @@ bool solveNQ() {
         printSolution(board);  
         return true;  
 }  
+
+## hasil run
+![](image.png)
+
