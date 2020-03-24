@@ -8,6 +8,8 @@ Institut Teknologi Sepuluh Nopember Surabaya
 
 # 8 Queen
 
+define N 8 karena ingin 8 queen
+
 Membuat fungsi untuk bisa mewarnai karakter
 ```
 void Color(int col) {  
